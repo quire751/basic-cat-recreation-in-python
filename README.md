@@ -1,6 +1,6 @@
 # Cat Recreation in Python
 
-This project was created for the sole purpose of **Practicing** Input and Output in Python.
+This project was created for the sole purpose of **practicing** input and output in *Python.*
 
 The tool is also very simple & basic. don't expect much from it.
 
